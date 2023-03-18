@@ -1,0 +1,9 @@
+Methods and classes 
+Main window 
+window_Main();
+sum_Calc();
+timer_Call();
+house_Type();
+
+Loading Screen
+player_Details();

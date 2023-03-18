@@ -1,0 +1,38 @@
+Methods and classes 
+Main window 
+window_Main(); (contains live score display and player turns )
+sum_Calc();
+timer_Call();
+house_Type();
+section_Call();
+
+
+Loading Screen
+player_Details();
+
+Winning window
+disp_Result();
+
+
+Start screen shows player name and avatar options 
+
+Main window has four sections 
+each section has four blocks each pertaining to around 1 hr of ingame time (1 min irl)
+
+Players get four house types to build from and are allowed to place one house 
+in each block of the section one by one 
+Each house has a different multiplier bonus and each block has random increasing or decreasing 
+point values 
+Second player can place a house on top of the previous players house with the condition that it 
+comes at a cost of a 50 percent chance that he wont be able to place it and his house may be 
+placed in a place with a decrement of points 
+
+Each house placement has a timer duration of 15 seconds and the players have to wait 
+until the next timer to place houses again 
+
+After realtime of 1 minute the sections are changed and the current scores are displayed to the 
+players 
+
+This goes on for four sections and the game concludes displaying the final results of the game 
+in another window where the user has the option to restart the game or exit 
+
