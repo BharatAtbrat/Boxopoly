@@ -1,2 +1,3 @@
 # Boxopoly
-Boxopoly is an interactive game built on Java
+
+###Boxopoly is an interactive game built on Java
